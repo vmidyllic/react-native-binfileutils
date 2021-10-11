@@ -1,6 +1,6 @@
 {
-  "name": "@iden3/binfileutils",
-  "version": "0.0.8",
+  "name": "react-native-binfileutils",
+  "version": "0.0.2",
   "description": "Utils to work with iden3 binary files.",
   "type": "module",
   "exports": {
@@ -15,7 +15,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https:https://github.com/iden3/binfileutils"
+    "url": "https://github.com/vmidyllic/react-native-binfileutils"
   },
   "keywords": [
     "file",
@@ -30,6 +30,6 @@
   },
   "dependencies": {
     "fastfile": "0.0.19",
-    "ffjavascript": "^0.2.30"
+    "react-native-ffjavascript": "0.0.1"
   }
 }
